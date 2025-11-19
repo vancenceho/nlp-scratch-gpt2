@@ -302,3 +302,6 @@ $RECYCLE.BIN/
 pretrain.txt
 XNLI-1.0/
 XNLI-MT-1.0/
+
+# secrets
+secrets.h
