@@ -10,6 +10,15 @@
 > 2. Create a new Python environment (or not, up to you) and set the environment for the `.ipynb` project file to the environment.
 > 3. After creating your Python environment use `pip` to install `requirements.txt`
 >    > > recommended `python@3.11` for this project.
+> 4. Download fine-tuned model for downstream tasks from **Task 2** onwards by going to **HuggingFace** with this link: [model](https://huggingface.co/vancenceho/scratch-gpt-2/tree/main) **OR** entering the following command (_if you have hf command in your terminal_):
+>
+> ```zsh
+> hf download vancenceho/scratch-gpt-2
+>
+> OR
+>
+> git clone https://huggingface.co/vancenceho/scratch-gpt-2
+> ```
 
 ## Description
 
