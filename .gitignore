@@ -306,6 +306,5 @@ XNLI-MT-1.0/
 # secrets
 secrets.h
 # Model files (too large for git)
-best_model/
 *.pt
 *.zip
