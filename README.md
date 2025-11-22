@@ -19,6 +19,8 @@
 >
 > git clone https://huggingface.co/vancenceho/scratch-gpt-2
 > ```
+>
+> 5. Place downloaded `scratch-gpt-2-model.pt` into `best_model` folder.
 
 ## Description
 
