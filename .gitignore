@@ -299,7 +299,6 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,jupyternotebooks,virtualenv
 
 # data files
-pretrain.txt
 XNLI-1.0/
 XNLI-MT-1.0/
 
