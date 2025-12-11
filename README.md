@@ -99,7 +99,7 @@ This dataset is from an awesome group of researchers from Facebook AI and New Yo
 
 You can check out more about the dataset [here](https://github.com/facebookresearch/XNLI)!
 
-This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the **_Information Systems Technology & Design_ (ISTD)** faculty at the **_Singapore Unversity of Technology & Design_ (SUTD)**
+This project is an undertaking of the [50.040 - Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html#grading) module during Fall 2025 under the **_Information Systems Technology & Design_ (ISTD)** faculty at the **_Singapore University of Technology & Design_ (SUTD)**
 
 All contents of this project are credited to:  
 Copyright &copy; Prof. Zhang Wenxuan &nbsp;|&nbsp; ISTD &nbsp;|&nbsp; SUTD  
