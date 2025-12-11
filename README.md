@@ -69,26 +69,26 @@ Additionally, if you would like to have a more detailed view on our findings, fe
 
 ```zsh
 best_model/
-├── model.pt                            # HuggingFace model
+├── model.pt                                  # HuggingFace model
 └── .gitkeep
-config.py                               # configurations for project
+config.py                                     # configurations for project
 docs/
-├── default-final-project.pdf           # project documentation
-├── 50.040-nlp-project-proposal.pdf     # project proposal
-├── 50.040-nlp-project-report.pdf       # project report
+├── default-final-project.pdf                 # project documentation
+├── 50.040-nlp-project-proposal.pdf           # project proposal
+├── 50.040-nlp-final-project-report.pdf       # project report
 └── *.pdf
-utils.py                                # helper functions
-optimizer_test.npy                      # GPT-2 official weights
+utils.py                                      # helper functions
+optimizer_test.npy                            # GPT-2 official weights
 outputs/
-└── *.png                               # visualisations from code
-default_final_project.ipynb             # project notebook
-pretrain.txt                            # data for task1
-XNLI-1.0/                               # downloaded dataset
-XNLI-MT-1.0/                            # downloaded dataset
-requirements.txt                        # local requirements
-requirements-colab.txt                  # google-colab requirements
+└── *.png                                     # visualisations from code
+default_final_project.ipynb                   # project notebook
+pretrain.txt                                  # data for task1
+XNLI-1.0/                                     # downloaded dataset
+XNLI-MT-1.0/                                  # downloaded dataset
+requirements.txt                              # local requirements
+requirements-colab.txt                        # google-colab requirements
 .gitignore
-README.md                               # Check this first!
+README.md                                     # Check this first!
 LICENSE
 
 ```
